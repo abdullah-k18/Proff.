@@ -1,0 +1,65 @@
+{
+    "reviews": [
+      {
+        "professor": "Asad Hanif",
+        "review": "Very knowledgeable and approachable.",
+        "subject": "Mobile Appliaction Development",
+        "stars": 5
+      },
+      {
+        "professor": "Kaleem Ullah",
+        "review": "Clear lectures but strict grading.",
+        "subject": "Web Programming Languages",
+        "stars": 4
+      },
+      {
+        "professor": "Shubhan Londhe",
+        "review": "Interesting class, though assignments are tough.",
+        "subject": "DevOps",
+        "stars": 5
+      },
+      {
+        "professor": "Muhammad Murtaza",
+        "review": "Very engaging and helpful during office hours.",
+        "subject": "Computer Organization and Assembly Language",
+        "stars": 5
+      },
+      {
+        "professor": "Babar Zahoor",
+        "review": "Content is challenging but rewarding.",
+        "subject": "Cloud Computing",
+        "stars": 4
+      },
+      {
+        "professor": "Irfan Malik",
+        "review": "Detailed explanations and great support material.",
+        "subject": "Artificial Intelligence",
+        "stars": 5
+      },
+      {
+        "professor": "Mukhtar Qureshi",
+        "review": "Difficult exams and bad grading.",
+        "subject": "Database Management Systems",
+        "stars": 2
+      },
+      {
+        "professor": "Hisham Sarwar",
+        "review": "Class was well-structured and informative.",
+        "subject": "Entrepreneurship",
+        "stars": 5
+      },
+      {
+        "professor": "Abdul Hannan",
+        "review": "Helpful feedback and well-structured lectures.",
+        "subject": "Analysis of Algorithm",
+        "stars": 5
+      },
+      {
+        "professor": "Jasim Ali",
+        "review": "Challenging but rewarding, great lecturer.",
+        "subject": "Computer Networks",
+        "stars": 4
+      }
+    ]
+  }
+  
